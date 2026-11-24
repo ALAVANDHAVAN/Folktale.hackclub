@@ -1,103 +1,23 @@
-### Hi! Welcome to your VS-Code Space!
+# Welcome
 
-You can use this just like you would vs-code on your own computer! For security reasons, we can not give you root access to the container, but we have preinstalled a number of development tools for you!
+Welcome to this game.
 
-#### Pre-installed tools:
-If a tool you need is not listed, attempt to install it using one of the package managers listed, and if that is not possible, ask in #spaces on slack and I can probably add the tool!
+# Intro
 
-If a tool listed here is not working, wait a few minutes and try again! The installation is ran in the background upon space creation to minimize space creation times, so you might have to wait a minute or two for all tools to become available
+This is a game where you get to become a superhero with awesome powers and fight crimes to become a great superhero, or not, it's your choice!
 
-##### Hackatime
+In this game, there would be a lot of options for you to choose from, each listed with a letter before it. This is sort of like a multiple choice quiz, but in this, there are no wrong answers, although the choices impact the end result. Let's see how the game works.
 
-Make sure to set your hackatime api key in settings! if you have done that, Hackatime has been auto installed and set up for you, and will be tracking your time
+I had a lot of "match_cases" in this instead of using "if/else statements." I did this because I wanted to try out something new and understand it, so this really helped me get to know it better.
 
-##### General
-```
-git
-github-cli
-curl
-wget
-nano
-vim
-unzip
-zip
-build-essentials
-cmake
-pkg-config
-jq
-tree
-htop
-tmux
-less
-ripgrep
-fd-find
-rsync
-openssh-client
-apt-transport-https
-ca-certificates
-gnupg
-```
-##### Python:
-```
-python3
-python3-pip
-python3-venv
-python3-dev
-python3-setuptools
-uv
-```
+# How to play
 
-##### Javascript:
-```
-nodejs
-npm
-yarn
-pnpm
-```
+First you have to pick your superpower (play the game to see what superpowers). You pick that by typing the letter that particular power is. For example, for A: Invisibility, you type in A. You don't have to type it in capital letters, you can type it in lowercase as well. Accidentally gave an invalid answer? No problem! You get to re-answer the question if you type in an invalid input. After picking your superpower, you will go through 3 crimes. Be wise when you choose your choice! These choices affect what the end result would be (If you are an ideal superhero or if you are not). In the end, if you want to play with different inputs, no worries. Just run the code again and you will be able to play it all again. If your are done playing this game, that's it!
 
-##### Java:
-```
-openjdk-17-jdk
-openjdk-17-jre
-```
+# Problems
 
-##### Rust:
-```
-rust
-cargo
-```
+There were many problems i ran into with this code. One was just reading the code to see which ones to change and which ones to keep. Since this project had many elements to it that were repeated, I had a hard time finding the right parts of the code to change or alter. Another issue was the "while True" loops. The while loops worked really good, but just breaking loop every time felt tiring and if I forgot one, that would cause the whole thing to not work. One more difficulty I faced was testing out as many combinations as I can with this code. There were many possible combinations of the input the user might do, so testing out all of them was unreasonable. So i tested as much as I could, and fixed the errors that came up, if there were any.
 
-##### PHP:
-```
-php 
-php-cli 
-php-common 
-php-curl 
-php-json 
-php-mbstring 
-php-xml 
-php-zip
-```
+# Outro
 
-##### Database:
-```
-sqlite3
-postgresql-client
-mysql-client
-redis-tools
-```
-
-##### Ruby:
-```
-ruby
-rails
-```
-
-###### Other:
-```
-go
-crystal
-ffmpeg
-imagemagick
-```# Folktale.hackclub
-# Folktale.hackclub
+This project was really helpful to me because this was the first major project I worked on. This helps give me experience and future notes to keep in mind when I do something like this in the future. Thank you so much for this opportunity!
